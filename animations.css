@@ -1,0 +1,7 @@
+/* CSS Document */
+@keyframes fadeIn{
+	from{padding-top: 315px;}
+	to{padding-top: 300px;}
+	from{opacity: 0;}
+	to{opacity: 1;}
+}
